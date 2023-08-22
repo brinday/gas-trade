@@ -1,0 +1,32 @@
+sector,technology
+biomass,biomass cogen
+biomass,biomass (conv)
+biomass,biomass (IGCC)
+coal,coal (conv pul)
+coal,coal (IGCC)
+gas,gas (CC)
+gas,gas (steam/CT)
+geothermal,geothermal
+hydro,hydro
+hydrogen,hydrogen cogen
+nuclear,Gen_III
+refined liquids,refined liquids (CC)
+refined liquids,refined liquids (steam/CT)
+solar,rooftop_pv
+solar,CSP_storage
+solar,PV
+solar,PV_storage
+wind,wind
+wind,wind_offshore
+wind,wind_storage
+gas,gas cogen
+solar,CSP
+nuclear,Gen_II_LWR
+coal,coal cogen
+refined liquids,refined liquids cogen
+biomass CCS,biomass (conv CCS)
+biomass CCS,biomass (IGCC CCS)
+coal CCS,coal (conv pul CCS)
+coal CCS,coal (IGCC CCS)
+gas CCS,gas (CC CCS)
+refined liquids,refined liquids (CC CCS)

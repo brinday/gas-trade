@@ -1,0 +1,33 @@
+﻿GCAM_region_ID,region,grouped_region
+1,USA,USA
+2,Africa_Eastern,Africa
+3,Africa_Northern,Africa
+4,Africa_Southern,Africa
+5,Africa_Western,Africa
+6,Australia_NZ,Australia+NZ
+7,Brazil,LAC
+8,Canada,Can.+Mex.
+9,Central America and Caribbean,LAC
+10,Central Asia,C.Asia+E.Eur
+11,China,China
+12,EU-12,Europe
+13,EU-15,Europe
+14,Europe_Eastern,C.Asia+E.Eur
+15,Europe_Non_EU,Europe
+16,European Free Trade Association,Europe
+17,India,India
+18,Indonesia,SE.Asia
+19,Japan,E.Asia
+20,Mexico,Can.+Mex.
+21,Middle East,Middle East
+22,Pakistan,S.Asia
+23,Russia,Russia
+24,South Africa,Africa
+25,South America_Northern,LAC
+26,South America_Southern,LAC
+27,South Asia,S.Asia
+28,South Korea,E.Asia
+29,Southeast Asia,SE.Asia
+30,Taiwan,E.Asia
+31,Argentina,LAC
+32,Colombia,LAC
