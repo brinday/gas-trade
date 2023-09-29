@@ -13,4 +13,4 @@ Yarlagadda, B., M. Binsted, and G. Iyer (2023). The Future Evolution of Global N
 
 ### Output data
 Yarlagadda, B., M. Binsted, and G. Iyer (2023). The Future Evolution of Global Natural Gas Trade Output Data. Zenodo. Zenodo. 
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8392736.svg)](https://doi.org/10.5281/zenodo.8392736)
