@@ -1,5 +1,3 @@
-[![DOI](https://zenodo.org/badge/265119113.svg)](https://zenodo.org/badge/latestdoi/265119113)
-
 # Yarlagadda et al. (under review): The future evolution of global natural gas trade
 
 ## Summary
@@ -9,6 +7,10 @@ Natural gas plays a key role in many energy systems today and understanding its 
 To be completed
 
 ## Code and Data
-### GCAM version and input files used in this study
+### GCAM-5.4 and Input Data
+Yarlagadda, B., M. Binsted, and G. Iyer (2023). The Future Evolution of Global Natural Gas Trade Input Data. Zenodo. 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8346604.svg)](https://doi.org/10.5281/zenodo.8346604)
 
 ### Output data
+Yarlagadda, B., M. Binsted, and G. Iyer (2023). The Future Evolution of Global Natural Gas Trade Output Data. Zenodo. Zenodo. 
+
