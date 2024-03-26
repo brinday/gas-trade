@@ -6,8 +6,6 @@ Natural gas plays a key role in many energy systems today and understanding its 
 
 ## Journal reference
 Yarlagadda, B., G. Iyer, M. Binsted, P. Patel, M. Wise and J. McLeod (2024). The future evolution of global natural gas trade. iScience. https://doi.org/10.1016/j.isci.2024.108902
-![image](https://github.com/brinday/gas-trade/assets/10574029/f921c3a8-b2de-4693-8c2c-71983d115b45)
-
 
 ## Code and Data
 ### GCAM-5.4 and Input Data
